@@ -1,0 +1,7 @@
+Not connecting easily?
+
+Use:
+
+ssh-keygen -R raspberrypi.local
+
+ssh pi@raspberrypi.local

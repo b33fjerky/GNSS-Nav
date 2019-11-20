@@ -1,0 +1,13 @@
+1) Connect GSM Antenna, Earphones and Jumpers to B on Waveshare.
+
+2) Insert SD Card in RPi and connect RPi to Power via PWR microUSB slot.
+
+3) Attach the HAT on RPi GPIOS.
+
+4) Connect Waveshare HAT to power via USBtoUART microUSB slot.
+
+5) SSH into RPi via ssh pi@raspberrypi.local | password: raspberry
+
+6) Use Python to initiate serial communication on port /dev/ttyS0
+
+Done!

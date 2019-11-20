@@ -1,0 +1,5 @@
+https://epsg.io/map#srs=4326&x=23.733206&y=38.013038&z=16&layer=streets
+
+http://www.movable-type.co.uk/scripts/latlong.html
+
+https://www.igismap.com/formula-to-find-bearing-or-heading-angle-between-two-points-latitude-longitude/

@@ -1,0 +1,50 @@
+
+SERIES   Voltage increases when batteries in SERIES
+
+PARALLEL Current and Capacity increase when in PARALLEL
+
+
+
+
+
+	Assuming we have selected a cell of 3.7 Volt 
+					    6.7 Max Amp
+					    3300 mAh
+
+	A 3S6P cell pack has:
+		
+			3 x 3.7  =  11.1V
+			4 x 6.7  =  40A
+			6 x 3300 =  19800mAh
+
+			Weight is ~ 50g p/c 
+				    
+				    3 * 6 = 18 * 50 = 0.9Kg
+			
+			Single cell volume is 18mm * 65mm = 1170
+			Complete Volume  = 18 * 1170 = 21060
+	
+	
+	
+	
+	Assuming we have selected a cell of 3.7 Volt
+					    7.2 Max Amp
+					    5000 mAh
+
+
+	A 4S4P cell pack has:
+
+			4 x 3.7  =  14.8V
+			5 x 7.2  =  36A
+			5 x 5000 =  25000mAh
+
+			Weight is ~ 70g p/c
+			
+				    4 * 5 = 20 * 70 = 1.4Kg
+
+			Single cell volume is 21mm * 70mm = 1470
+			Complete Volume  = 20 * 1470 = 30000
+
+
+
+

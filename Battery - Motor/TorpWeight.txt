@@ -1,0 +1,14 @@
+ MAXes
+ 
+S  1500g	-	Battery
+H   200g	-	Motor
+I   600g	-	Electronics
+P  1200g	-	Hull
+
+L  1000g
+O  1000g
+A  1000g
+D  1000g
+	  
+   
+=  7500   +  500 (Safety) = 8Kg  

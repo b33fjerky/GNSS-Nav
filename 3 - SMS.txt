@@ -1,0 +1,10 @@
+elif cmd == 'SMS':
+	port.write('AT+CSCA="+3097100000"\r\n')
+	portRead()
+	port.write('AT+CMGF=1\r\n')
+	portRead()
+	port.write('AT+CMGS="+306983413353"\r\n')
+	portRead()
+	port.write('long lat')  
+	port.write('\x1A\r\n')        ##  \x1A is CTRL+Z and *requires* \r\n in the end.
+	time.sleep(5)
